@@ -35,3 +35,11 @@
 
 namespace PurpleProdigy\Sandbox;
 
+$first_name = 'Rose';
+$post_id = 12;
+
+d( "My name is $first_name." );
+
+d( "The post ID is $post_id" );
+
+die();
